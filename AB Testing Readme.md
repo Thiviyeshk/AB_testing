@@ -130,12 +130,6 @@ This project analyzes campaign performance to optimize marketing strategy and im
 
 
 
-###### **Dashboard Preview**
-
-
-
-(Add your screenshot here)
-
 
 
 ###### **Business Impact**
