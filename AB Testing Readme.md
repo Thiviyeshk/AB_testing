@@ -157,6 +157,17 @@ pip install -r requirements.txt
 
 python main.py
 
+## 📸 Dashboard Preview
+
+![A/B Testing Dashboard](ab_testing.png)
+
+---
+
+## 🎥 Demo Video
+
+[Watch Demo](ab_testing.mp4)
+
+
 
 
 ###### **Future Improvements**
@@ -175,8 +186,5 @@ python main.py
 
 
 Thiviyesh K
-
-
-
 Aspiring Data Analyst
 
